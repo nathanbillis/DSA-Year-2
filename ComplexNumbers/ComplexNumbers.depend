@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1539802612 source:m:\dsa - y2\complexnumbers\src\main.c
+	<stdio.h>
+	"complexNumber.h"
+
+1539802612 mber.h"
+
+1539801260 m:\dsa - y2\complexnumbers\src\complexnumber.h
+
+1539802638 source:m:\dsa - y2\complexnumbers\src\complexnumber.c
+
+1539868518 source:/home/userfs/n/ncab500/DSA - Y2/ComplexNumbers/src/complexNumber.c
+	<stdio.h>
+	<math.h>
+
+1539867689 source:/home/userfs/n/ncab500/DSA - Y2/ComplexNumbers/src/main.c
+	<stdio.h>
+	"complexNumber.h"
+
+1539867459 /home/userfs/n/ncab500/DSA - Y2/ComplexNumbers/src/complexNumber.h
+

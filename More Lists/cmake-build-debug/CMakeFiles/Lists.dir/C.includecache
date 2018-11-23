@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/ncab500/DSA - Y2/Lists/list.h
+
+/Volumes/ncab500/DSA - Y2/Lists/main.c
+stdio.h
+-
+list.h
+/Volumes/ncab500/DSA - Y2/Lists/list.h
+

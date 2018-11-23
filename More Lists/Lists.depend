@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1540050977 source:/home/userfs/n/ncab500/DSA - Y2/Lists/arrayList.c
+	<stdio.h>
+	<stdlib.h>
+
+1540232854 
+
+1540051032 source:/home/userfs/n/ncab500/DSA - Y2/Lists/main.c
+	<stdio.h>
+	"list.h"
+
+1540051466 /home/userfs/n/ncab500/DSA - Y2/Lists/list.h
+
+1540232854 source:m:\dsa - y2\lists\main.c
+	<stdio.h>
+	"list.h"
+
+1540121535 m:\dsa - y2\lists\list.h
+
+1540232893 source:m:\dsa - y2\lists\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542121529 source:/home/userfs/n/ncab500/DSA - Y2/More Lists/arrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
+1542121876 source:/home/userfs/n/ncab500/DSA - Y2/More Lists/main.c
+	<stdio.h>
+	"list.h"
+	"time.h"
+
+1542120857 /home/userfs/n/ncab500/DSA - Y2/More Lists/list.h
+
+1540914793 source:/home/userfs/n/ncab500/DSA - Y2/More Lists/linkedList.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1541366918 source:/home/userfs/n/ncab500/DSA - Y2/More Lists/Sorting.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+

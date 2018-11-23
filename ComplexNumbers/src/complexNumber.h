@@ -1,0 +1,13 @@
+struct ComplexNumber;
+struct ComplexNumber* complexNumberConstructor(float real, float imaginary);
+void complexNumberDestructor(struct ComplexNumber* complexnumber);
+float complexNumberGetReal(struct ComplexNumber* complexnumber);
+float complexNumberGetImag(struct ComplexNumber* complexnumber);
+float complexNumberGetMag(struct ComplexNumber* complexnumber);
+float complexNumberGetAngle(struct ComplexNumber* complexnumber);
+void complexNumberDisplay(struct ComplexNumber* complexnumber);
+void complexNumberConjugate(struct ComplexNumber* input, struct ComplexNumber* result);
+void complexNumberMulti(struct ComplexNumber* input,struct ComplexNumber* inputtwo, struct ComplexNumber* result);
+void complexNumberAdd(struct ComplexNumber* input,struct ComplexNumber* inputtwo, struct ComplexNumber* result);
+void complexNumberSub(struct ComplexNumber* input,struct ComplexNumber* inputtwo, struct ComplexNumber* result);
+void complexNumberDivide(struct ComplexNumber* input,struct ComplexNumber* inputtwo, struct ComplexNumber* result);

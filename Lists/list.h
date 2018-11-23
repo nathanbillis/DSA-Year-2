@@ -1,0 +1,10 @@
+struct List;
+struct List* listConstructor();
+void listDestructior(struct List* list);
+int listAdd(struct List* list, int entity);
+void listDisplay(struct List* list);
+int listRead(struct List* list, int index, int* entity);
+int listSearch(struct List* list, int entity);
+void listRemove(struct List* list, int index);
+int listSize(struct List* list);
+int listIsEmpty(struct List* list);
